@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeantecholiveira&show_icons=true&locale=en&layout=compact" alt="jeantecholiveira" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeantecholiveira&" alt="jeantecholiveira" /></p>
